@@ -3,8 +3,8 @@
  *
  * @brief  Brief description of the content of template.h
  * @author Kevin Perillo, Juventus Techniker Schule
- * @date   18.05.2020 - first implementation
- * @version 1.0
+ * @date   XX.XX.20XX - first implementation
+ * @version 1.0.0
  * 
  * MIT License
  * 
